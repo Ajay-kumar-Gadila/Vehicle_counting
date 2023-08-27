@@ -20,3 +20,10 @@ It is strongly recommended to run DNN models on GPU.
 You can install OpenCV via “pip install opencv-python opencv_contrib-python”.
 3. Numpy – 1.20.3
 4. YOLOv3 Pre-trained model weights and Config Files.
+
+![image](https://github.com/gadilaajaykumar/Vehicle_counting/assets/115562722/7cea7005-6d64-49a0-84b6-9ee8bc330f6e)
+
+
+![image](https://github.com/gadilaajaykumar/Vehicle_counting/assets/115562722/66fb3e1e-d595-4927-95be-ab8f66c4e17a)
+
+
